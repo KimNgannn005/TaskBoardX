@@ -1,0 +1,20 @@
+[
+  {
+    "id": "task-101",
+    "title": "Setup Zustand store",
+    "description": "Implement global state",
+    "status": "IN_PROGRESS",
+    "assignee": { "id": "user-1", "name": "Alice" },
+    "projectId": "proj-1",
+    "dueDate": "2025-05-10"
+  },
+  {
+    "id": "task-102",
+    "title": "Build Table View",
+    "description": "Use React Table to render task list",
+    "status": "TODO",
+    "assignee": { "id": "user-2", "name": "Bob" },
+    "projectId": "proj-1",
+    "dueDate": "2025-05-11"
+  }
+]
